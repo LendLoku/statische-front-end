@@ -5,11 +5,11 @@ h1{
 body{
     margin: 3%;
 }
-
 div.first{
     background-color: aquamarine;
     padding: 1%;
 }
+
 
 div.first h2{
     color: red
@@ -21,10 +21,15 @@ div.first p{
     font-family: sans-serif;
 }
 
-div.second{
-    background-color: burlywood;
+div.second h2{
+    color: green;
 }
 
-div.second h2{
-    color: green
+div.second {
+    background-color: burlywood ;
+}
+
+div.second p{
+    font-size: small;
+    font-weight: bold;
 }
